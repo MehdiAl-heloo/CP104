@@ -1,0 +1,76 @@
+"""
+-------------------------------------------------------
+Assignment 8 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-11-25
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a sentence: StopAndSmellTheRoses.
+
+Stop and smell the roses.
+
+Enter a sentence: ThisIsASentence
+
+This is a sentence
+
+Enter a sentence: TestingTaskOne
+
+Testing task one
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a word to be pluralized: city
+
+cities
+
+Enter a word to be pluralized: student
+
+students
+
+Enter a word to be pluralized: push
+
+pushes
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first word: jumping
+Enter the second word: nothing
+
+ing
+
+Enter the first word: Guess
+Enter the second word: Yes
+
+s
+
+Enter the first word: Test
+Enter the second word: Best
+
+est
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter Isbn: 978-3-12148410--0
+
+Valid Isbn: True
+
+Enter Isbn: 978-3-16-148410-0
+
+Valid Isbn: True
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+['camel', 'leopard', 'dog', 'giraffe', 'elephant']
+Word Chain: True
+
+['camel', 'dog']
+Word Chain: False
+
+['a', 'a', 'a']
+Word Chain: True

@@ -1,0 +1,60 @@
+"""
+-------------------------------------------------------
+Assignment 9 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-12-02
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+How many lines do you want to read: 2
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+
+How many lines do you want to read: 1
+Patel,Bina,820000095,54
+
+How many lines do you want to read: 14
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+Smith,Bina,820000041,59
+Dang,Bob,820000075,44
+Snord,Cranston,820000019,84
+Thomson,Mi-Leng,820000055,77
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+[10, 20, 40, 50, 90, 80, 11, 22, 14, 14, 20]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+50, 114, 15, 45, 15
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+[0] Quotes from Oscar Wilde - 1854 - 1900
+[1] 
+[2] "Always forgive your enemies; nothing annoys them so much."
+[3] 
+[4] "Be yourself; everyone else is already taken."
+[5] 
+[6] "To live is the rarest thing in the world. Most people exist, that is all."
+
+(continued)...
+
+[136] "Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul."
+[137] 
+[138] "The mystery of love is greater than the mystery of death."
+[139]  
+[140] "It takes great deal of courage to see the world in all its tainted glory, and still to love it."
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+820000075, 820000000, 69.11111111111111

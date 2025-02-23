@@ -1,0 +1,89 @@
+"""
+-------------------------------------------------------
+Assignment 4 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-10-28
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a number 1-7: 2
+
+The corresponding day is Monday
+
+Enter a number 1-7: 5
+
+The corresponding day is Thursday
+
+Enter a number 1-7: 9
+
+ERROR
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Please enter the AIR QUALITY INDEX: -20
+
+ERROR
+
+Please enter the AIR QUALITY INDEX: 50
+
+The air quality is Good
+
+Please enter the AIR QUALITY INDEX: 230
+
+The air quality is Very Unhealthy
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the first value: 2
+Enter the second value: 4
+Enter the third value: 3
+
+The average between the two largest values is 3.50
+
+Enter the first value: 6
+Enter the second value: -2
+Enter the third value: 9
+
+The average between the two largest values is 7.50
+
+Enter the first value: 4
+Enter the second value: 9
+Enter the third value: 17
+
+The average between the two largest values is 13.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the first RGB colour: blue
+Enter the second RGB colour: red
+
+blue and red make fuchsia
+
+Enter the first RGB colour: red
+Enter the second RGB colour: red
+
+red and red make red
+
+Enter the first RGB colour: blue
+Enter the second RGB colour: pink
+
+ERROR
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a number: 14
+
+Hoo Rah
+
+Enter a number: 21
+
+Rah
+
+Enter a number: 4
+
+Hoo

@@ -1,0 +1,98 @@
+"""
+-------------------------------------------------------
+Assignment 3 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-10-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Input the square feet to be converted to acres: 100000
+
+100000.0 square feet in acres is 2.295684113865932 acres
+
+Input the square feet to be converted to acres: 600000
+
+600000.0 square feet in acres is 13.774104683195592 acres
+
+Input the square feet to be converted to acres: 75000000
+
+75000000.0 square feet in acres is 1721.763085399449 acres
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Length of the lawn in meters: 20
+Width of the lawn in meters: 50
+Square meters cut per minute: 4
+
+It will take 250.0 minutes to cut the lawn
+
+Length of the lawn in meters: 6
+Width of the lawn in meters: 8
+Square meters cut per minute: 4
+
+It will take 12.0 minutes to cut the lawn
+
+Length of the lawn in meters: 100
+Width of the lawn in meters: 50
+Square meters cut per minute: 12
+
+It will take 416.6666666666667 minutes to cut the lawn
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Please input a date in YYYYMMDD format: 20040503
+
+The date is (2004, 5, 3)
+
+Please input a date in YYYYMMDD format: 19621025
+
+The date is (1962, 10, 25)
+
+Please input a date in YYYYMMDD format: 20070514
+
+The date is (2007, 5, 14)
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Please enter the numerator for the first fraction: 1
+Please enter the denominator for the first fraction: 2
+
+Please enter the numerator for the second fraction: 3
+Please enter the denominator for the second fraction: 4
+
+Multiplied: in order of num, den, and product (3.0, 8.0, 0.375)
+
+Please enter the numerator for the first fraction: 25
+Please enter the denominator for the first fraction: 4
+
+Please enter the numerator for the second fraction: 12
+Please enter the denominator for the second fraction: 3
+
+Multiplied: in order of num, den, and product (300.0, 12.0, 25.0)
+
+Please enter the numerator for the first fraction: 5
+Please enter the denominator for the first fraction: 2
+
+Please enter the numerator for the second fraction: 3
+Please enter the denominator for the second fraction: 8
+
+Multiplied: in order of num, den, and product (15.0, 16.0, 0.9375)
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+How long did it take the object to hit the ground: 15
+
+The object fell from 1102.5 meters
+
+How long did it take the object to hit the ground: 3
+
+The object fell from 44.1 meters
+
+How long did it take the object to hit the ground: 1.54
+
+The object fell from 11.620840000000001 meters

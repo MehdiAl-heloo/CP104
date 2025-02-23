@@ -1,0 +1,106 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-09-26
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few 
+basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+input 1:
+What is your age? 60
+What is your favourite band? The Beatles
+
+I am 60 years old and The Beatles is my favourite band.
+
+input 2:
+What is your age? 19
+What is your favourite band? Imagine Dragons
+
+I am 19 years old and Imagine Dragons is my favourite band.
+
+input 3:
+What is your age? 20
+What is your favourite band? bts
+
+I am 20 years old and bts is my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+input 1:
+Length in miles: 35
+
+Length in km: 56.35
+
+input 2:
+Length in miles: 2
+
+Length in km: 3.22
+
+input 3:
+Length in miles: 5
+
+Length in km: 8.05
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+input 1:
+Cost of 1 dosa: $1.95
+Number of dosa: 3
+
+Total cost of 3 dosas: $ 5.85
+
+input 2:
+Cost of 1 dosa: $3.12
+Number of dosa: 32
+
+Total cost of 32 dosas: $ 99.84
+
+input 3:
+Cost of 1 dosa: $5.45
+Number of dosa: 6
+
+Total cost of 6 dosas: $ 32.7
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+input 1:
+Principal: $5000
+Interest (%): 5
+Number of years: 10
+Number of times interest compounded per year: 12
+
+Balance: $ 8235.0474884514
+
+input 2:
+Principal: $200
+Interest (%): 12
+Number of years: 5
+Number of times interest compounded per year: 4
+
+Balance: $ 361.22224693388296
+
+input 3:
+Principal: $12000
+Interest (%): 10
+Number of years: 25
+Number of times interest compounded per year: 4
+
+Balance: $ 141764.59621274497

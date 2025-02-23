@@ -1,0 +1,119 @@
+"""
+-------------------------------------------------------
+Assignment 5 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-11-04
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Please enter a number: 5
+
+The factorial of 5 is: 120
+
+Please enter a number: 6
+
+The factorial of 6 is: 720
+
+Please enter a number: 1
+
+The factorial of 1 is: 1
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Calories burning per minute: 4.2
+Minutes on tread mill: 20
+  5 21.0
+ 10 42.0
+ 15 63.0
+ 20 84.0
+
+Calories burning per minute: 3.5
+Minutes on tread mill: 27
+  5 17.5
+ 10 35.0
+ 15 52.5
+ 20 70.0
+ 25 87.5
+ 
+Calories burning per minute: 2.6
+Minutes on tread mill: 43
+  5 13.0
+ 10 26.0
+ 15 39.0
+ 20 52.0
+ 25 65.0
+ 30 78.0
+ 35 91.0
+ 40 104.0
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+How many rows do you want in the arrow? 4
+   #
+  # #
+ #   #
+#     #
+
+How many rows do you want in the arrow? 1
+#
+
+How many rows do you want in the arrow? 3
+  #
+ # #
+#   #
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Starting value of multiplication table: 2
+End value of multiplication table: 4
+           2    3    4
+       ---------------
+    2 |    4    6    8
+    3 |    6    9   12
+    4 |    8   12   16
+    
+Starting value of multiplication table: 2
+End value of multiplication table: 8
+           2    3    4    5    6    7    8
+       -----------------------------------
+    2 |    4    6    8   10   12   14   16
+    3 |    6    9   12   15   18   21   24
+    4 |    8   12   16   20   24   28   32
+    5 |   10   15   20   25   30   35   40
+    6 |   12   18   24   30   36   42   48
+    7 |   14   21   28   35   42   49   56
+    8 |   16   24   32   40   48   56   64
+
+Starting value of multiplication table: -2
+End value of multiplication table: 1
+          -2   -1    0    1
+       --------------------
+   -2 |    4    2    0   -2
+   -1 |    2    1    0   -1
+    0 |    0    0    0    0
+    1 |   -2   -1    0    1
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Start: 1
+Increment: 2
+Count: 20
+
+Total: 400
+
+Start: 4
+Increment: 1
+Count: 5
+
+Total: 30
+
+Start: 10
+Increment: 10
+Count: 5
+
+Total: 150
