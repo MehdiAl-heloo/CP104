@@ -1,0 +1,47 @@
+"""
+-------------------------------------------------------
+Lab 8 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-11-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+How many numbers do you want in the list: 2
+What is the low value of the range: 1
+What is the high value of the range: 10
+[3, 7]
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+How many numbers do you want in the list: 7
+What is the low value of the range: 1
+What is the high value of the range: 50
+[19, 35, 2, 41, 13, 35, 20]
+2 41 165 23.57
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+How many numbers do you want in the list: 5
+What is the low value of the range: 1
+What is the high value of the range: 100
+[22, 7, 56, 41, 60]
+What number do you want to search for? 7
+1
+-------------------------------------------------------
+t10
+-------------------------------------------------------

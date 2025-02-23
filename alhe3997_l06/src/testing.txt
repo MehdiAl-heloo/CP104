@@ -1,0 +1,61 @@
+"""
+-------------------------------------------------------
+Lab 6 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-10-26
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Input number: 312
+
+24492 is the sum of all even numbers in your number
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+EInput the height of the rectangle: 3
+Input the width of the rectangle: 6
+Input the character you want to use: O
+
+OOOOOO
+OOOOOO
+OOOOOO
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+How many bottles of beer are on the wall? 3
+
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down, pass it around, 2 bottles of beer on the wall.
+--
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down, pass it around, 1 bottles of beer on the wall.
+--
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, no more bottles of beer on the wall!
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Calories burning per minute: 2.4
+Start time in minutes: 5
+End time in minutes: 60
+Increment in minutes: 10
+Calories burned after 5 minutes: 12.0
+Calories burned after 15 minutes: 36.0
+Calories burned after 25 minutes: 60.0
+Calories burned after 35 minutes: 84.0
+Calories burned after 45 minutes: 108.0
+Calories burned after 55 minutes: 132.0
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+How many numbers do you want to enter: 4
+First Value: 3
+Next Value: 2
+Next Value: 8
+Next Value: 1
+Minimum, Maximum, Total, Average: (1.0, 8.0, 14.0, 3.5)

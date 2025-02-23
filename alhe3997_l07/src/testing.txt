@@ -1,0 +1,110 @@
+"""
+-------------------------------------------------------
+Lab 7 Testing
+-------------------------------------------------------
+Author:  Mehdi Al-heloo
+ID:      169063997
+Email:   alhe3997@mylaurier.ca
+Version: 2023-11-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess a number between 1 up to the number of your choice: 10
+Guess: 4
+Too low, try again.
+Guess: 6
+Too low, try again.
+Guess: 8
+Too high, try again.
+Guess: 7
+Congratulations - Good Guess!
+It took you 4 tries!
+
+Guess a number between 1 up to the number of your choice: 100
+Guess: 50
+Too low, try again.
+Guess: 75
+Too low, try again.
+Guess: 53
+Too low, try again.
+Guess: 83
+Too low, try again.
+Guess: 90
+Too high, try again.
+Guess: 87
+Too high, try again.
+Guess: 85
+Too high, try again.
+Guess: 84
+Congratulations - Good Guess!
+It took you 8 tries!
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Please give a target: 3
+4
+
+Please give a target: 255
+256
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Please give a target: 45
+55
+
+Please give a target: 26
+30
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For day 1
+
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for today was: $65.83
+Were you away another day (Y/N)? Y
+For day 2
+
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $36.23
+Your total for today was: $54.17
+Were you away another day (Y/N)? N
+
+Breakfast, Lunch, Supper, and Total among the day(s): 13.50 27.71 78.79 120.00
+
+For day 1
+
+How much was breakfast? $5
+How much was lunch? $4
+How much was supper? $0
+Your total for today was: $9.0
+Were you away another day (Y/N)? N
+
+Breakfast, Lunch, Supper, and Total among the day(s): 5.00 4.00 0.00 9.00
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: $45
+Hours worked: 46
+Net payment for employee 123: $2125.07
+
+Employee ID: 124
+Hourly wage rate: $30
+Hours worked: 46
+Net payment for employee 124: $1416.71
+
+Employee ID: 0
+Total: $3541.78  Average: $1770.89
+
+Employee ID: 2
+Hourly wage rate: $15
+Hours worked: 20
+Net payment for employee 2: $289.12
+
+Employee ID: 0
+Total: $289.12  Average: $289.12
